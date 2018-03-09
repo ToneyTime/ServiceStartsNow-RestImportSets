@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Import User Profiles" max_length="40" name="x_204061_ssn_rest_import_user_profiles" type="collection"/>
+</database>
